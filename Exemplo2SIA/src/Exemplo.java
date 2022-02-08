@@ -11,6 +11,7 @@ public class Exemplo {
 		System.out.println("maior valor = " + maior);
 		System.out.println("menor valor = " + menor);
 		System.out.println("fechando o projeto");
+		System.out.println("alterado no github");
 
 	}
 
